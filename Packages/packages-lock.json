@@ -5,12 +5,24 @@
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.ishape.mesh2d": "0.0.3",
-        "com.ishape.spline": "0.0.3",
+        "com.ishape.mesh2d": "0.0.4",
+        "com.ishape.spline": "0.0.5",
         "com.unity.mathematics": "1.2.6",
         "com.unity.collections": "1.2.4"
       },
-      "hash": "74c4318f6319c41e874132469766dafce469f5a0"
+      "hash": "9d446bc07e1877835eaf618486869ccfc1299b1d"
+    },
+    "com.ishape.grass2d": {
+      "version": "file:/Users/nailsharipov/Projects/Unity/iShape/Grass2d",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.ishape.mesh2d": "0.0.3",
+        "com.ishape.spline": "0.0.3",
+        "com.ishape.beziertool": "0.0.1",
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.collections": "1.2.4"
+      }
     },
     "com.ishape.mesh2d": {
       "version": "https://github.com/iShapeUnity/Mesh2d.git",
@@ -20,7 +32,7 @@
         "com.unity.mathematics": "1.2.6",
         "com.unity.collections": "1.2.4"
       },
-      "hash": "897a13fdf5ec9301f14b39cc153a26e6aa366959"
+      "hash": "acf48f1219c8a543ba627dc99df30580f7335b08"
     },
     "com.ishape.spline": {
       "version": "https://github.com/iShapeUnity/Spline.git",
@@ -30,10 +42,10 @@
         "com.unity.mathematics": "1.2.6",
         "com.unity.collections": "1.2.4"
       },
-      "hash": "32698c85d0091bec925b47b79d4d5d2f28d95753"
+      "hash": "85e7068cf004e97239d0afc194ceef640e6049aa"
     },
     "com.unity.burst": {
-      "version": "1.8.2",
+      "version": "1.8.3",
       "depth": 2,
       "source": "registry",
       "dependencies": {

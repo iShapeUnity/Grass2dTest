@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.ishape.beziertool": "https://github.com/iShapeUnity/BezierTool.git",
+    "com.ishape.grass2d": "file:/Users/nailsharipov/Projects/Unity/iShape/Grass2d",
     "com.ishape.mesh2d": "https://github.com/iShapeUnity/Mesh2d.git",
     "com.ishape.spline": "https://github.com/iShapeUnity/Spline.git",
     "com.unity.ide.rider": "3.0.18",
